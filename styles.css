@@ -1,0 +1,40 @@
+*{
+    background-color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#336977bf;
+    background-color: lightblue;
+    font-size: 4em;
+}
+
+table{
+    font-size: 125%;
+    max-width: 800px;
+}
+
+td, tr{
+    padding: 0.7em;
+    text-align: center;
+    border: solid 1px lightgray;
+}
+
+.code{
+    font-style: italic;
+}
+
+ul{
+    list-style: none;
+    text-align: left;
+}
+
+th{
+    font-size: 200%;
+    color: #336977bf;
+}
+
+.header{
+    background-color: lightblue;
+}
